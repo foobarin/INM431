@@ -5,8 +5,8 @@ Tutorial and assignment repositories
  
 Please fill the following and stage+commit+push to your Github repository:
 
-Name:
-City ID number: 
-City Email address:
+- Name:
+- City ID number:
+- City Email address:
 
 Kindly verify that you have committed and pushed it to Github. 
