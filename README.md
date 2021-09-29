@@ -1,4 +1,4 @@
-# INM341: Machine Learning (2021-2022)
+# INM431: Machine Learning (2021-2022)
 Tutorial and assignment repositories
 
 ## Important
